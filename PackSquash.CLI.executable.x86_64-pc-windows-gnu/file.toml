@@ -1,9 +1,0 @@
-pack_directory = 'C:\Users\zocke\Documents\GitHub\Recources\test'
-output_file_path = 'C:\Users\zocke\Documents\GitHub\Recources\test.zip'
-
-recompress_compressed_files = true
-validate_pack_metadata_file = true
-zip_spec_conformance_level = 'high'
-
-['**/*?.ogg']
-target_bitrate_control_metric = 48
