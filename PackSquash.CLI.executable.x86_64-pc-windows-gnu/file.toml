@@ -5,3 +5,7 @@ recompress_compressed_files = true
 zip_compression_iterations = 2
 validate_pack_metadata_file = true
 zip_spec_conformance_level = 'high'
+
+['**/*?.ogg']
+sampling_frequency = 44100
+target_bitrate_control_metric = 48
