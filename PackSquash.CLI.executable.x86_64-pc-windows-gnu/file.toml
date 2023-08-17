@@ -1,5 +1,5 @@
-pack_directory = 'C:\Users\zocke\Documents\GitHub\Recources\'
-output_file_path = 'C:\Users\zocke\Documents\GitHub\Recources\'
+pack_directory = 'C:\Users\zocke\Documents\GitHub\Recources\test'
+output_file_path = 'C:\Users\zocke\Documents\GitHub\Recources\test.zip'
 
 recompress_compressed_files = true
 zip_compression_iterations = 30
