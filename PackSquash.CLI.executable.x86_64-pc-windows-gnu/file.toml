@@ -2,6 +2,6 @@ pack_directory = 'C:\Users\zocke\Documents\GitHub\Recources\test'
 output_file_path = 'C:\Users\zocke\Documents\GitHub\Recources\test.zip'
 
 recompress_compressed_files = true
-zip_compression_iterations = 5
+zip_compression_iterations = 0
 validate_pack_metadata_file = true
 zip_spec_conformance_level = 'high'
